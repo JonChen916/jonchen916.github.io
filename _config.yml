@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiong (Jon) Chen"
-description              : "Medical Researcher at  Peking University & UCSF | Sleep Science & Digital Biomarkers"
+description              : "PhD student at <br> Peking University（PKU） <br>and <br>University of California, San Francisco（UCSF）"
 repository               : "JonChen916/jiongchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiong (Jon) Chen"
   avatar           : "images/avatar.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : " "
   location         : "Beijing, China"
-  employer         : "Peking University / University of California, San Francisco"
+  employer         : "Peking University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BhqalAYAAAAJ&hl=en"
   email            : "jonchen@hsc.pku.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jiong-Chen-10?ev=prf_overview"
+  researchgate     : "https://www.researchgate.net/profile/Jiong-Chen-10/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "JonChen916"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,13 +45,13 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-7567-5369"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : “JONCHEN916”
   vine             :
   weibo            :
   xing             :

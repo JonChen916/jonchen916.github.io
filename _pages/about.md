@@ -68,7 +68,7 @@ He holds a bachelor’s degree in Medical Information Management and Information
       <img src="/images/ucsf_logo.png" style="width: 100%; max-height: 100px; object-fit: contain;" alt="UCSF">
     </div>
     <div style="flex: 1; line-height: 1.6;">
-      <strong>2024.01 - 2026.06</strong><br>
+      <strong>2026.03 - 2026.09</strong><br>
       <strong>Joint PhD Training</strong>, Department of Psychiatry and Behavioral Sciences<br>
       University of California, San Francisco (UCSF)
     </div>

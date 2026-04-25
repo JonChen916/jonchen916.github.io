@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "中文版"
+    url: "/zh.html"
+
   - title: "About Me"
     url: "/#about-me"
 

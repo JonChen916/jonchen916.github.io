@@ -1,0 +1,25 @@
+# _data/navigation_zh.yml
+main:
+  - title: "English Version"
+    url: "/"
+
+  - title: "个人简介"
+    url: "/zh.html#about-me"
+
+  - title: "教育背景"
+    url: "/zh.html#-educations"
+
+  - title: "新闻动态"
+    url: "/zh.html#-news"
+
+  - title: "学术成果"
+    url: "/zh.html#-publications"
+
+  - title: "个人荣誉"
+    url: "/zh.html#-honors-and-awards"
+
+  - title: "学术报告"
+    url: "/zh.html#-invited-talks"
+
+  - title: "项目经历"
+    url: "/zh.html#-projects"

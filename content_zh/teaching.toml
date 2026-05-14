@@ -1,0 +1,9 @@
+type = "card"
+title = "教学"
+description = "教学经历已整合至“教学与服务”页面。"
+
+[[items]]
+title = "教学与服务"
+subtitle = "请查看合并页面"
+date = ""
+content = "教学经历已整合至“教学与服务”页面。"

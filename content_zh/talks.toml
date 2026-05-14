@@ -1,0 +1,33 @@
+type = "card"
+title = "学术报告"
+description = "学术会议口头报告与壁报展示。"
+
+[[items]]
+title = "Sleep Macro- and Microarchitecture in Major Depressive Disorder with Sleep State Misperception"
+subtitle = "口头报告，SLEEP 2026，美国巴尔的摩"
+date = "2026.06"
+content = "在 Associated Professional Sleep Societies 年会进行口头报告。"
+
+[[items]]
+title = "Sleep Temporal Entropy: A Novel Sleep Fragmentation Biomarker Predicting Cardiometabolic Disease and Mortality Risk"
+subtitle = "口头报告，World Sleep 2025，新加坡"
+date = "2025.09"
+content = "在第 18 届 World Sleep Congress 进行口头报告。"
+
+[[items]]
+title = "Developing a Novel Marker of Sleep Fragmentation for Cardiometabolic and Mortality Risk Prediction"
+subtitle = "口头报告，SLEEP 2025，美国西雅图"
+date = "2025.06"
+content = "在 Associated Professional Sleep Societies 年会进行口头报告。"
+
+[[items]]
+title = "Artificial Intelligence-Derived Sleep Age from Heartbeat and Respiratory Signals"
+subtitle = "壁报展示，SLEEP 2025，美国西雅图"
+date = "2025.06"
+content = "在 Associated Professional Sleep Societies 年会进行壁报展示。"
+
+[[items]]
+title = "Association Between Objective Sleep Architecture and Biomarkers of Alzheimer's Disease"
+subtitle = "壁报展示，SLEEP 2024，美国休斯敦"
+date = "2024.06"
+content = "在 Associated Professional Sleep Societies 年会进行壁报展示。"

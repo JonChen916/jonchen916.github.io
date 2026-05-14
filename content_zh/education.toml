@@ -1,0 +1,21 @@
+type = "card"
+title = "教育经历"
+description = "教育背景与联合培养经历。"
+
+[[items]]
+title = "医学技术博士研究生"
+subtitle = "北京大学医学部医学技术研究院"
+date = "2022.09–2027.06（预计）"
+content = "博士阶段主要围绕睡眠医学、多模态睡眠数据和生理信号处理开展研究。"
+
+[[items]]
+title = "联合博士培养"
+subtitle = "加州大学旧金山分校 UCSF Weill Institute for Neurosciences"
+date = "2026.03–2026.09"
+content = "在 The Moon (Sleep) Lab for Artificial Intelligence Technology 开展联合研究训练。"
+
+[[items]]
+title = "医学信息管理与信息系统学士；英语第二学位"
+subtitle = "华中科技大学"
+date = "2018.09–2022.06"
+content = "本科阶段接受医学信息管理与英语相关训练。"

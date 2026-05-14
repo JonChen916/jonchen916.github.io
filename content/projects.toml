@@ -1,0 +1,27 @@
+type = "card"
+title = "Projects"
+description = "Research projects and collaborative programs."
+
+[[items]]
+title = "Summer Scholar Program on Global Health"
+subtitle = "International Scholar, Saint Louis University, USA"
+date = "2019"
+content = "Completed intensive coursework in global health, focusing on healthcare systems and international medical collaboration."
+
+[[items]]
+title = "National Science and Technology Innovation 2030 — Brain Science and Brain-Inspired Intelligence Major Project"
+subtitle = "Key Member"
+date = "2021–"
+content = "Project: Establishment of a Multi-center and Multi-dimensional Clinical Sample Bank and Big Data Analysis Platform for Sleep Disorders, No. 2021ZD0201902. Responsible for multimodal sleep data integration and advanced physiological signal analysis."
+
+[[items]]
+title = "MoonLAIT Project / S365 Sleep Cohort"
+subtitle = "Key Member, PKU Site"
+date = "Ongoing"
+content = "Leading a multi-center longitudinal study to monitor sleep patterns using specialized pillow sensors, coordinating intern teams, and managing standard operating procedures for large-scale data collection."
+
+[[items]]
+title = "National Innovation and Entrepreneurship Project for Students"
+subtitle = "Key Member"
+date = "Undergraduate period"
+content = "Project: Personal Risk Prediction and Health Management App for Atherosclerotic Cardiovascular Disease based on the China-PAR model. Formally recognized at the national level; led the market research and database management modules."

@@ -1,0 +1,27 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards."
+
+[[items]]
+title = "ASSM 2025 Young Investigator Award"
+subtitle = "Asian Society of Sleep Medicine"
+date = "2025.09"
+content = "Received at the Asian Society of Sleep Medicine meeting in Singapore."
+
+[[items]]
+title = "Outstanding Research Award"
+subtitle = "Peking University"
+date = "2024–2025"
+content = "Awarded for research performance during doctoral training."
+
+[[items]]
+title = "Fosun Pharma Scholarship"
+subtitle = "Huazhong University of Science and Technology"
+date = "2023.10"
+content = "Scholarship awarded during undergraduate training."
+
+[[items]]
+title = "Advanced Individual in COVID-19 Prevention"
+subtitle = "Huazhong University of Science and Technology"
+date = "2020.12"
+content = "Recognized for contributions to COVID-19 prevention activities."

@@ -1,0 +1,21 @@
+type = "card"
+title = "Education"
+description = "Educational background and research training."
+
+[[items]]
+title = "Ph.D. Candidate in Medical Technology"
+subtitle = "Institute of Medical Technology, Peking University Health Science Center"
+date = "2022.09–2027.06 (Expected)"
+content = "Doctoral training in medical technology, with research focusing on sleep medicine, multimodal sleep data, and physiological signal processing."
+
+[[items]]
+title = "Joint Ph.D. Training"
+subtitle = "UCSF Weill Institute for Neurosciences, University of California, San Francisco"
+date = "2026.03–2026.09"
+content = "Joint research training within The Moon (Sleep) Lab for Artificial Intelligence Technology."
+
+[[items]]
+title = "B.S. in Medical Information Management and Information Systems; B.A. in English (Second Degree)"
+subtitle = "Huazhong University of Science and Technology"
+date = "2018.09–2022.06"
+content = "Undergraduate training in medical information management and English."

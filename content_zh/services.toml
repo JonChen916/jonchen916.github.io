@@ -1,0 +1,27 @@
+type = "card"
+title = "教学与服务"
+description = "教学经历、同行评审与学术服务。"
+
+[[items]]
+title = "教学经历"
+
+[[items]]
+title = "医学物理实验课助教"
+subtitle = "北京大学医学物理教研室"
+date = "2023–2026"
+content = "担任医学物理实验课助教，参与实验课程教学支持。"
+
+[[items]]
+title = "学术服务"
+
+[[items]]
+title = "Reviewer"
+subtitle = "Frontiers in Physiology, Computational Physiology and Medicine"
+date = "2026"
+content = "担任 Frontiers in Physiology 期刊 Computational Physiology and Medicine 栏目的审稿人。"
+
+[[items]]
+title = "Abstract/Session Proposal Reviewer"
+subtitle = "SLEEP 2026, 40th Annual Meeting of the Associated Professional Sleep Societies"
+date = "2026"
+content = "担任 SLEEP 2026 线上摘要或专题提案审稿人。SLEEP 2026 为 Associated Professional Sleep Societies（APSS）第 40 届年会，于 2026 年 6 月 14–17 日在美国马里兰州巴尔的摩举行。"

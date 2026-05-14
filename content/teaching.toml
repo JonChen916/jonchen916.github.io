@@ -1,0 +1,9 @@
+type = "card"
+title = "Teaching"
+description = "Teaching experience is now listed under Teaching & Service."
+
+[[items]]
+title = "Teaching & Service"
+subtitle = "See the combined page"
+date = ""
+content = "Teaching experience has been integrated into the Teaching & Service page."

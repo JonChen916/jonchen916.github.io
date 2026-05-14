@@ -1,0 +1,4 @@
+type = "publication"
+title = "论文"
+description = "同行评议论文与会议论文。"
+source = "publications.bib"

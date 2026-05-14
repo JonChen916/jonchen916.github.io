@@ -1,0 +1,27 @@
+type = "card"
+title = "项目"
+description = "科研项目与合作项目。"
+
+[[items]]
+title = "Summer Scholar Program on Global Health"
+subtitle = "International Scholar, Saint Louis University, USA"
+date = "2019"
+content = "完成全球健康方向的强化课程训练，内容聚焦医疗卫生体系与国际医学合作。"
+
+[[items]]
+title = "科技创新 2030 — 脑科学与类脑研究重大项目"
+subtitle = "核心成员"
+date = "2021–"
+content = "项目名称：睡眠障碍多中心、多维度临床样本库与大数据分析平台建设，项目编号 No. 2021ZD0201902。主要负责多模态睡眠数据整合和高级生理信号分析。"
+
+[[items]]
+title = "MoonLAIT Project / S365 Sleep Cohort"
+subtitle = "PKU Site 核心成员"
+date = "进行中"
+content = "参与多中心纵向睡眠监测研究，使用专用枕垫传感器监测睡眠模式，并负责实习团队协调和大规模数据采集 SOP 管理。"
+
+[[items]]
+title = "国家级大学生创新创业训练计划项目"
+subtitle = "核心成员"
+date = "本科阶段"
+content = "项目名称：基于 China-PAR 模型的动脉粥样硬化性心血管疾病个人风险预测与健康管理 App。项目获得国家级认定，主要负责市场调研和数据库管理模块。"

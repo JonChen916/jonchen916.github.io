@@ -1,0 +1,27 @@
+type = "card"
+title = "Teaching & Service"
+description = "Teaching experience, peer review, and academic service."
+
+[[items]]
+title = "Teaching"
+
+[[items]]
+title = "Teaching Assistant, Medical Physics Laboratory Course"
+subtitle = "Department of Medical Physics, Peking University"
+date = "2023–2026"
+content = "Served as a teaching assistant for the medical physics laboratory course."
+
+[[items]]
+title = "Academic Service"
+
+[[items]]
+title = "Reviewer"
+subtitle = "Frontiers in Physiology, Computational Physiology and Medicine"
+date = "2026"
+content = "Served as a reviewer for the Computational Physiology and Medicine section of Frontiers in Physiology."
+
+[[items]]
+title = "Abstract/Session Proposal Reviewer"
+subtitle = "SLEEP 2026, 40th Annual Meeting of the Associated Professional Sleep Societies"
+date = "2026"
+content = "Served as an online reviewer for abstracts or session proposals for SLEEP 2026, held June 14–17, 2026, in Baltimore, Maryland."

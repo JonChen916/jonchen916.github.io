@@ -1,0 +1,33 @@
+type = "card"
+title = "Invited Talks and Presentations"
+description = "Oral and poster presentations at academic conferences."
+
+[[items]]
+title = "Sleep Macro- and Microarchitecture in Major Depressive Disorder with Sleep State Misperception"
+subtitle = "Oral Presentation, SLEEP 2026, Baltimore, USA"
+date = "2026.06"
+content = "Presented at the Annual Meeting of the Associated Professional Sleep Societies."
+
+[[items]]
+title = "Sleep Temporal Entropy: A Novel Sleep Fragmentation Biomarker Predicting Cardiometabolic Disease and Mortality Risk"
+subtitle = "Oral Presentation, World Sleep 2025, Singapore"
+date = "2025.09"
+content = "Presented at the 18th World Sleep Congress."
+
+[[items]]
+title = "Developing a Novel Marker of Sleep Fragmentation for Cardiometabolic and Mortality Risk Prediction"
+subtitle = "Oral Presentation, SLEEP 2025, Seattle, USA"
+date = "2025.06"
+content = "Presented at the Annual Meeting of the Associated Professional Sleep Societies."
+
+[[items]]
+title = "Artificial Intelligence-Derived Sleep Age from Heartbeat and Respiratory Signals"
+subtitle = "Poster Presentation, SLEEP 2025, Seattle, USA"
+date = "2025.06"
+content = "Poster presentation at the Annual Meeting of the Associated Professional Sleep Societies."
+
+[[items]]
+title = "Association Between Objective Sleep Architecture and Biomarkers of Alzheimer's Disease"
+subtitle = "Poster Presentation, SLEEP 2024, Houston, USA"
+date = "2024.06"
+content = "Poster presentation at the Annual Meeting of the Associated Professional Sleep Societies."

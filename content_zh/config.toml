@@ -1,0 +1,96 @@
+[site]
+title = "陈炯"
+description = "聚焦睡眠医学、生理信号处理和多模态睡眠数据数字标志物的个人主页。"
+favicon = "/favicon.svg"
+last_updated = "2026年5月12日"
+
+[author]
+name = "陈炯"
+title = "联合培养博士研究生"
+institution = "北京大学医学部 & 加州大学旧金山分校"
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "jiongchen916@gmail.com"
+location = "美国加利福尼亚州旧金山"
+location_url = "https://maps.google.com/?q=San+Francisco,+CA"
+location_details = [
+  "UCSF Weill Institute for Neurosciences,",
+  "San Francisco, CA, USA"
+]
+google_scholar = "https://scholar.google.com/citations?user=BhqalAYAAAAJ&hl=en"
+orcid = "https://orcid.org/0000-0001-7567-5369"
+github = "https://github.com/JonChen916"
+linkedin = ""
+
+[features]
+# Show a like button on the about page
+enable_likes = false
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+# "auto" means the locale will be determined by the browser's language setting.
+# "fixed" means the locale will be fixed to the default locale, but users can still switch manually.
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "教育经历"
+type = "page"
+target = "education"
+href = "/education"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "荣誉奖项"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "学术报告"
+type = "page"
+target = "talks"
+href = "/talks"
+
+[[navigation]]
+title = "项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "教学与服务"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

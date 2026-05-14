@@ -1,0 +1,27 @@
+type = "card"
+title = "荣誉奖项"
+description = "个人荣誉与奖励。"
+
+[[items]]
+title = "2025年度青年研究者奖"
+subtitle = "亚洲睡眠协会（ASSM）"
+date = "2025.09"
+content = "于新加坡举行的 AASM2025 会议中获奖"
+
+[[items]]
+title = "优秀科研奖"
+subtitle = "北京大学"
+date = "2023–2025"
+content = "奖励博士阶段科研表现"
+
+[[items]]
+title = "复型奖学金"
+subtitle = "华中科技大学"
+date = "2023.10"
+content = "本科阶段获奖"
+
+[[items]]
+title = "抗疫先进个人"
+subtitle = "华中科技大学"
+date = "2020.12"
+content = "参与新冠疫情防控相关工作获奖"

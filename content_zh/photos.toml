@@ -1,0 +1,57 @@
+type = "gallery"
+title = "照片"
+description = "会议报告、获奖与学术活动相关照片。"
+
+[[sections]]
+title = "会议照片"
+subtitle = "会议报告与学术交流"
+date = "2024–2025"
+description = "包括世界睡眠大会、SLEEP 年会、亚洲睡眠大会等国内外会议相关照片。"
+
+[[sections.photos]]
+title = "World Sleep Congress 2025"
+subtitle = "新加坡 · 2025"
+description = "World Sleep Congress 期间的照片，包括睡眠医学和数字睡眠标志物相关研究展示与学术交流。"
+image = "/photos/conferences/AASM1.jpg"
+
+[[sections.photos]]
+title = "SLEEP 2025"
+subtitle = "美国西雅图 · 2025"
+description = "SLEEP 2025 期间的照片，包括会议参与和睡眠医学相关学术交流。"
+image = "/photos/conferences/sleep2025-2.JPG"
+
+[[sections.photos]]
+title = "ASSM 2025"
+subtitle = "新加坡· 2025"
+description = "ASSM 2025 期间的会议参与和睡眠医学相关学术交流。"
+image = "/photos/conferences/sleep2025-3.jpg"
+
+[[sections.photos]]
+title = "2024 中国生物医学工程大会（BME2024）"
+subtitle = "中国深圳 · 2024"
+description = "在 BME2024 期间展示和交流睡眠碎片化相关研究。"
+image = "/photos/conferences/BME.jpg"
+
+[[sections]]
+title = "学术活动"
+subtitle = "获奖、实验室成员与主要合作者"
+date = "2024–2025"
+description = "包括学术活动、实验室成员、获奖和主要合作者的相关照片。"
+
+[[sections.photos]]
+title = "ASSM 2025"
+subtitle = "新加坡 · 2025"
+description = "ASSM 2025 颁奖照片。"
+image = "/photos/academic/AASM.jpg"
+
+[[sections.photos]]
+title = "SLEEP 2025"
+subtitle = "美国西雅图 · 2025.06"
+description = "SLEEP 2025 期间与 MoonLAIT 成员和主要合作者的合影。"
+image = "/photos/academic/sleep2025-1.jpg"
+
+[[sections.photos]]
+title = "SLEEP 2024"
+subtitle = "美国休斯顿 · 2024.06"
+description = "SLEEP 2024 期间与 MoonLAIT 和主要合作者的合影。"
+image = "/photos/academic/sleep2024.JPG"

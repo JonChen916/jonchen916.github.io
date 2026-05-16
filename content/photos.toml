@@ -1,0 +1,57 @@
+type = "gallery"
+title = "Photos"
+description = "Photos from conference presentations, awards, and academic activities."
+
+[[sections]]
+title = "Conference Photos"
+subtitle = "Conference presentations and academic exchange"
+date = "2024–2025"
+description = "Selected photos from domestic and international conferences, including the World Sleep Congress, SLEEP annual meetings, and the Asian Society of Sleep Medicine meeting."
+
+[[sections.photos]]
+title = "World Sleep Congress 2025"
+subtitle = "Singapore · 2025"
+description = "Photos from the World Sleep Congress, including research presentations and academic exchange related to sleep medicine and digital sleep biomarkers."
+image = "/photos/conferences/AASM1.jpg"
+
+[[sections.photos]]
+title = "SLEEP 2025"
+subtitle = "Seattle, USA · 2025"
+description = "Photos from SLEEP 2025, including conference participation and academic exchange in sleep medicine."
+image = "/photos/conferences/sleep2025-2.JPG"
+
+[[sections.photos]]
+title = "ASSM 2025"
+subtitle = "Singapore · 2025"
+description = "Photos from ASSM 2025, including conference participation and academic exchange in sleep medicine."
+image = "/photos/conferences/sleep2025-3.jpg"
+
+[[sections.photos]]
+title = "2024 China Biomedical Engineering Conference (BME2024)"
+subtitle = "Shenzhen, China · 2024"
+description = "Research related to sleep fragmentation was presented and discussed at BME2024."
+image = "/photos/conferences/BME.jpg"
+
+[[sections]]
+title = "Academic Activities"
+subtitle = "Awards, lab members, and key collaborators"
+date = "2024–2025"
+description = "Selected photos from academic activities, lab members, awards, and key collaborators."
+
+[[sections.photos]]
+title = "ASSM 2025"
+subtitle = "Singapore · 2025"
+description = "Award photo from ASSM 2025."
+image = "/photos/academic/AASM.jpg"
+
+[[sections.photos]]
+title = "SLEEP 2025"
+subtitle = "Seattle, USA · 2025.06"
+description = "Photo with MoonLAIT members and key collaborators during SLEEP 2025."
+image = "/photos/academic/sleep2025-1.jpg"
+
+[[sections.photos]]
+title = "SLEEP 2024"
+subtitle = "Houston, USA · 2024.06"
+description = "Photo with MoonLAIT members and key collaborators during SLEEP 2024."
+image = "/photos/academic/sleep2024.JPG"

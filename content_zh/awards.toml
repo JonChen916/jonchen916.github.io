@@ -15,7 +15,12 @@ date = "2023–2025"
 content = "奖励博士阶段科研表现"
 
 [[items]]
-title = "复型奖学金"
+title = "王希季奖学金"
+subtitle = "大理白族自治州人民政府"
+content = "奖励学业与科研表现"
+
+[[items]]
+title = "复星医药奖学金"
 subtitle = "华中科技大学"
 date = "2023.10"
 content = "本科阶段获奖"

@@ -5,8 +5,14 @@ description = "会议报告、获奖与学术活动相关照片。"
 [[sections]]
 title = "会议照片"
 subtitle = "会议报告与学术交流"
-date = "2024–2025"
+date = "2024–2026"
 description = "包括世界睡眠大会、SLEEP 年会、亚洲睡眠大会等国内外会议相关照片。"
+
+[[sections.photos]]
+title = "SLEEP 2026"
+subtitle = "美国巴尔的摩 · 2026.06"
+description = "在美国巴尔的摩举行的 SLEEP 2026 进行口头报告。"
+image = "/photos/conferences/sleep2026-baltimore.jpg"
 
 [[sections.photos]]
 title = "World Sleep Congress 2025"
@@ -35,8 +41,26 @@ image = "/photos/conferences/BME.jpg"
 [[sections]]
 title = "学术活动"
 subtitle = "获奖、实验室成员与主要合作者"
-date = "2024–2025"
+date = "2024–2026"
 description = "包括学术活动、实验室成员、获奖和主要合作者的相关照片。"
+
+[[sections.photos]]
+title = "UCSF Weill Institute for Neurosciences 联合培养纪念"
+subtitle = "美国旧金山 · 2026"
+description = "在 UCSF Weill Institute for Neurosciences 联合培养期间的纪念照片。"
+image = "/photos/academic/ucsf-weill-joint-training-2026.jpg"
+
+[[sections.photos]]
+title = "MoonLAIT Lab Event"
+subtitle = "美国旧金山 · 2026.08"
+description = "MoonLAIT Lab 在旧金山举办活动期间的合影。"
+image = "/photos/academic/moonlait-lab-event-sf-2026.jpg"
+
+[[sections.photos]]
+title = "SLEEP 2026"
+subtitle = "美国巴尔的摩 · 2026.06"
+description = "SLEEP 2026 期间与 MoonLAIT 成员和主要合作者的合影。"
+image = "/photos/academic/sleep2026-baltimore-group.jpg"
 
 [[sections.photos]]
 title = "ASSM 2025"

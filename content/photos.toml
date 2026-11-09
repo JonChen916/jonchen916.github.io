@@ -5,8 +5,14 @@ description = "Photos from conference presentations, awards, and academic activi
 [[sections]]
 title = "Conference Photos"
 subtitle = "Conference presentations and academic exchange"
-date = "2024–2025"
+date = "2024–2026"
 description = "Selected photos from domestic and international conferences, including the World Sleep Congress, SLEEP annual meetings, and the Asian Society of Sleep Medicine meeting."
+
+[[sections.photos]]
+title = "SLEEP 2026"
+subtitle = "Baltimore, USA · 2026.06"
+description = "Oral presentation at SLEEP 2026 in Baltimore, USA."
+image = "/photos/conferences/sleep2026-baltimore.jpg"
 
 [[sections.photos]]
 title = "World Sleep Congress 2025"
@@ -35,8 +41,26 @@ image = "/photos/conferences/BME.jpg"
 [[sections]]
 title = "Academic Activities"
 subtitle = "Awards, lab members, and key collaborators"
-date = "2024–2025"
+date = "2024–2026"
 description = "Selected photos from academic activities, lab members, awards, and key collaborators."
+
+[[sections.photos]]
+title = "UCSF Weill Institute for Neurosciences Joint Training"
+subtitle = "San Francisco, USA · 2026"
+description = "Commemorative photo from joint doctoral training at the UCSF Weill Institute for Neurosciences."
+image = "/photos/academic/ucsf-weill-joint-training-2026.jpg"
+
+[[sections.photos]]
+title = "MoonLAIT Lab Event"
+subtitle = "San Francisco, USA · 2026.08"
+description = "Group photo from a MoonLAIT Lab event in San Francisco."
+image = "/photos/academic/moonlait-lab-event-sf-2026.jpg"
+
+[[sections.photos]]
+title = "SLEEP 2026"
+subtitle = "Baltimore, USA · 2026.06"
+description = "Photo with MoonLAIT members and key collaborators during SLEEP 2026."
+image = "/photos/academic/sleep2026-baltimore-group.jpg"
 
 [[sections.photos]]
 title = "ASSM 2025"
